@@ -1,5 +1,5 @@
 ############################################################################################################################
-# Tools SSTI to RCE Auto Upload Shell recoder by Adit Arlos                                                                                   #
+# Tools SSTI to RCE Auto Upload Shell recoder by Adit Arlos   Author By Sendal.py                                                                               #
 # Usage python3 filename.py list.txt -ip(if the targets are ip ex: 127.0.0.1)                                              #
 # Usage python3 filename.py list.txt -w(if the targets are with http or https ex: http://asu.com and http://127.0.0.1)     #
 ############################################################################################################################
